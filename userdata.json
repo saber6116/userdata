@@ -19,5 +19,12 @@
     "password": "saber",
     "expiresAt": "2027-11-30",
     "allowOffline": false
+  },
+{
+    "id": "1c38dc76b4ee3c5a",
+    "username": "Khalid",
+    "password": "Khalid",
+    "expiresAt": "2041-11-30",
+    "allowOffline": true
   }
 ]
