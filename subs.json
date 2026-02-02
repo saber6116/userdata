@@ -1,0 +1,19 @@
+{
+  "subscriptions": [
+    {
+      "username": "saber",
+      "device_ids": ["F5A2E7A89C5B2EE8"],
+      "expiry_date": "2099-12-31"
+    },
+    {
+      "username": "user2", 
+      "device_ids": ["DEVICE_ID_3"],
+      "expiry_date": "2024-06-30"
+    },
+    {
+      "username": "user3",
+      "device_ids": ["DEVICE_ID_4"],
+      "expiry_date": "2025-01-15"
+    }
+  ]
+}
