@@ -1,19 +1,24 @@
 {
-  "subscriptions": [
+  "users": [
     {
       "username": "saber",
-      "device_ids": ["67B26E66C7259FF9"],
-      "expiry_date": "2099-12-31"
+      "subscription_active": true,
+      "subscription_expiry": "2099-12-31"
     },
     {
       "username": "user2", 
-      "device_ids": ["DEVICE_ID_3"],
-      "expiry_date": "2024-06-30"
+      "subscription_active": true,
+      "subscription_expiry": "2024-11-30"
     },
     {
-      "username": "user3",
-      "device_ids": ["DEVICE_ID_4"],
-      "expiry_date": "2025-01-15"
+      "username": "vip_user",
+      "subscription_active": true,
+      "subscription_expiry": "2025-01-15"
+    },
+    {
+      "username": "test_user",
+      "subscription_active": false,
+      "subscription_expiry": "2023-10-01"
     }
   ]
 }
