@@ -40,5 +40,12 @@
     "password": "Yaseen129",
     "expiresAt": "2099-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "142ffb87af853d81",
+    "username": "ibrahim",
+    "password": "ibrahim",
+    "expiresAt": "2099-11-30",
+    "allowOffline": true
   }
 ]
