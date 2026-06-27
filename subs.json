@@ -54,6 +54,11 @@
       "username": "Kawa",
       "subscription_active": true,
       "subscription_expiry": "2027-08-24"
+    },
+    {
+      "username": "Legendarybroker",
+      "subscription_active": true,
+      "subscription_expiry": "2026-06-28"
     }
   ]
 }
