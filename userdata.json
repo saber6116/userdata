@@ -47,5 +47,12 @@
     "password": "ibrahim",
     "expiresAt": "2099-11-30",
     "allowOffline": true
+  },
+{
+    "id": "7ee4a118805ad668",
+    "username": "Him5011",
+    "password": "Him5011",
+    "expiresAt": "2099-11-30",
+    "allowOffline": true
   }
 ]
