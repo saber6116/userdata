@@ -18,7 +18,7 @@
     "username": "saber",
     "password": "saber",
     "expiresAt": "2027-11-30",
-    "allowOffline": false
+    "allowOffline": true
   },
 {
     "id": "e2948a2a31ed2979",
