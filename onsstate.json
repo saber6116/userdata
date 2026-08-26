@@ -1,12 +1,7 @@
 {
-  "Ok": true,
-  "Version": "1.0.2",
-  "HasPayload": false,
-  "Token": "75d3c16fcbb890b29231aeb71fc414150b89d73828857fa037",
-  "Username": "saberksa",
-  "IsPremium": true,
-  "IsDeveloper": false,
-  "IsAuthorized": true,
-  "ExpiryDate": "2100-01-01T00:00:00.000Z",
-  "Session": "ACTIVE_SESSION"
+  "status": "success",
+  "license": "valid",
+  "user": "premium",
+  "expires": "never",
+  "message": "Welcome to STUART MODS"
 }
