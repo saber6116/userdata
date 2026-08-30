@@ -61,5 +61,12 @@
     "password": "tv1413",
     "expiresAt": "2099-11-30",
     "allowOffline": true
+  },
+{
+    "id": "b64f0c28dcf34cb9",
+    "username": "omar",
+    "password": "omar",
+    "expiresAt": "2099-11-30",
+    "allowOffline": true
   }
 ]
