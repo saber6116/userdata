@@ -68,5 +68,12 @@
     "password": "omar",
     "expiresAt": "2099-11-30",
     "allowOffline": true
+  },
+{
+    "id": "f5bb7bcbc6279cfb",
+    "username": "123456",
+    "password": "123456",
+    "expiresAt": "2099-11-30",
+    "allowOffline": true
   }
 ]
